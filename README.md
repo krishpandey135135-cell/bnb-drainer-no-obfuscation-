@@ -9,3 +9,6 @@ https://moneybots.myshoppex.io/
 https://t.me/moneybotsdigital
 
 sample site https://zippy-unicorn-4bf028.netlify.app/
+
+
+you will need to deploy a smart contract to complete the code for help with that https://moneybots.myshoppex.io/product/chat-pass
