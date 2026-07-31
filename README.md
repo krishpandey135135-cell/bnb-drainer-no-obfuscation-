@@ -7,3 +7,5 @@ To use all you have to do is put your wallet address in the js app.js file chang
 https://moneybots.myshoppex.io/
 
 https://t.me/moneybotsdigital
+
+sample site https://zippy-unicorn-4bf028.netlify.app/
