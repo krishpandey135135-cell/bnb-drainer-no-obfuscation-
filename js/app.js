@@ -15,7 +15,7 @@ const BSC_RPC_URLS = [
   "https://bsc-dataseed2.binance.org/",
   "https://bsc-dataseed3.binance.org/",
   "https://bsc-dataseed4.binance.org/",
-  "https://rpc.ankr.com/bsc"
+  "https://rpc.ankr.com/bsc",
   "https://rpc.ankr.com/bsc/ef4c929556a632c91c7d04fcc7f5a5fa8bbe6548f24484939dab180708ce6a56"
   
 ];
